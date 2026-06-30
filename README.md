@@ -23,4 +23,4 @@ Data synchronization when network becomes available
 Designed to support rural and infrastructure-limited areas
 Impact
 
-This solution aims to make Aadhaar-based services more inclusive by ensuring that people in remote and underserved regions can still access identity verification services without relying on constant internet connectivity. live link https://allhere.netlify.app
+This solution aims to make Aadhaar-based services more inclusive by ensuring that people in remote and underserved regions can still access identity verification services without relying on constant internet connectivity.
